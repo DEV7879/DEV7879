@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/devendr85949443" target="blank"><img src="https://img.shields.io/twitter/follow/devendr85949443?logo=twitter&style=for-the-badge" alt="devendr85949443" /></a> </p>
 
-- 🔭 I’m currently working on [building my personal website.](devkiwebsite.ml)
+- 🔭 I’m currently working on [building my personal website.](http://devkiwebsite.epizy.com)
 
 - 🌱 I’m currently learning AI and ML Technologies
 
