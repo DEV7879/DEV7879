@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dm me devendrabishnoi881@gmail.com**
 
-- ⚡ Fun fact :**I love music & participating in hackathons.**
+- ⚡ Fun fact :  **I love music & participating in hackathons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
