@@ -1,4 +1,4 @@
-- 👋 Hi, I’m devkiwebsite.ml
+- 👋 Hi, I’m Dev
 - 👀 I’m interested in Coding and AI
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
