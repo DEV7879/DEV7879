@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devendr85949443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendr85949443" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devendra bishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra bishnoi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__dev.exe__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dev__29___" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devbishnoi29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra bishnoi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_devbishnoi_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__dev__29___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devendra bishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra bishnoi" height="30" width="40" /></a>
 </p>
 
