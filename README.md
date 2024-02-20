@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev7879&label=Profile%20views&color=0e75b6&style=flat" alt="dev7879" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev7879" alt="dev7879" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/devendr85949443" target="blank"><img src="https://img.shields.io/twitter/follow/devendr85949443?logo=twitter&style=for-the-badge" alt="devendr85949443" /></a> </p>
 
 - 🔭 I’m currently working on [Movie recommendation system](https://github.com/DEV7879/Movie_Recommendation_System)
@@ -30,7 +28,7 @@
 <a href="https://dev.to/@dev7879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dev7879" height="30" width="40" /></a>
 <a href="https://twitter.com/devendr85949443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendr85949443" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devbishnoi29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devbishnoi29/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19768606/devendra-bishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19768606/devendra-bishnoi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19768606/devendra-bishnoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19768606/devendra-bishnoi" height="30" width="40" /></a>
 <a href="https://instagram.com/_devbishnoi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_devbishnoi_" height="30" width="40" /></a>
 <a href="https://medium.com/@devendrabishnoi881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devendrabishnoi881" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@devendrabishnoi429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devendrabishnoi429" height="30" width="40" /></a>
