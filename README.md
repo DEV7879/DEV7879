@@ -5,17 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/devendr85949443" target="blank"><img src="https://img.shields.io/twitter/follow/devendr85949443?logo=twitter&style=for-the-badge" alt="devendr85949443" /></a> </p>
 
-- 🔭 I’m currently working on [Movie recommendation system](https://github.com/DEV7879/Movie_Recommendation_System)
-
 - 🌱 I’m currently learning **AI and ML Technologies**
 
-- 👯 I’m looking to collaborate on [Movie recommendation system](https://github.com/DEV7879/Movie_Recommendation_System)
-
-- 🤝 I’m looking for help with [Movie recommendation system](https://github.com/DEV7879/Movie_Recommendation_System)
-
 - 👨‍💻 All of my projects are available at [https://github.com/DEV7879](https://github.com/DEV7879)
-
-- 📝 I regularly write articles on [https://dev69-portfolio.netlify.app](https://dev69-portfolio.netlify.app)
 
 - 💬 Ask me about **Python, AI, ML and DL**
 
